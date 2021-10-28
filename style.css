@@ -1,5 +1,46 @@
-.bannerS{
-    background-color: #ededed;
-    color: black;
+.main-container {
+    padding-top: 0px;
+}
+
+.bannerIntro {
+    width: 100%;
+    background-color: #f3f3f3
+}
+
+.bannerIntro .jumbotron {
+    padding: 50px 60px;
+    margin: 0px;
     text-align: center;
+}
+
+.theGridH{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 700px;
+    background-color: grey;
+    padding: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    position: sticky;
+    gap: 10px;
+}
+.theGridH > div {background-color: white; border: solid 5px black; padding: 10px;}
+
+.theGridH2 {
+    overflow: scroll;
+}
+
+.g3 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.homeA {
+    text-align: center;
+}
+.homeP {
+    text-align: left;
+    font-size: 20px;
+    word-wrap: break-word;
+}
+.map {
+    padding: 0px;
 }
