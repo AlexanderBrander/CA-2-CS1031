@@ -4,15 +4,14 @@
 
 .bannerIntro {
     width: 100%;
-    background-color: #f3f3f3
+    background-color: #f3f3f3;
 }
-
 .bannerIntro .jumbotron {
     padding: 50px 60px;
     margin: 0px;
     text-align: center;
+    background-color: #f3f3f3;
 }
-
 .theGridH{
     display: grid;
     grid-template-columns: 50% 50%;
@@ -23,24 +22,40 @@
     position: sticky;
     gap: 10px;
 }
-.theGridH > div {background-color: white; border: solid 5px black; padding: 10px;}
+.theGridH > div {background-color: white; border: solid 5px #414949; padding: 0px;}
 
 .theGridH2 {
     overflow: scroll;
 }
 
-.g3 {
+.theGridH3 {
     grid-column-start: 1;
     grid-column-end: 3;
 }
-.homeA {
+
+.headingS {
     text-align: center;
+    padding: 40px;
 }
-.homeP {
-    text-align: left;
+.paragraphS {
+    text-align: justify;
     font-size: 20px;
     word-wrap: break-word;
+    padding: 10px;
 }
 .map {
     padding: 0px;
 }
+
+.theGridA {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: grey;
+    padding: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    position: sticky;
+    gap: 10px;
+}
+.theGridA > div {background-color: white; border: solid 5px #414949; padding: 0px;}
+
+
