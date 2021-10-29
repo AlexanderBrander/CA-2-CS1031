@@ -1,0 +1,27 @@
+d4033d1	AlexanderBrander	Fri Oct 29 00:38:11 2021	Update README.md
+8a7dd8d	AlexanderBrander	Fri Oct 29 00:37:40 2021	Update README.md
+290b402	ALEXANDER BRANDER	Fri Oct 29 00:30:59 2021	Merge branch 'main' of https://github.com/AlexanderBrander/CA-2-CS1031 into main
+7127fbd	ALEXANDER BRANDER	Fri Oct 29 00:30:32 2021	Visit content v2
+195483e	ALEXANDER BRANDER	Fri Oct 29 00:30:16 2021	History content v3
+a00041e	ALEXANDER BRANDER	Fri Oct 29 00:29:58 2021	image
+cec7646	AlexanderBrander	Fri Oct 29 00:29:25 2021	Delete Admirals.jpg
+21ea96e	ALEXANDER BRANDER	Fri Oct 29 00:09:37 2021	After visit content
+ab9a7f1	ALEXANDER BRANDER	Fri Oct 29 00:09:25 2021	Visit content v1
+9f1d227	ALEXANDER BRANDER	Fri Oct 29 00:08:48 2021	image
+b22e394	ALEXANDER BRANDER	Fri Oct 29 00:08:43 2021	image
+c505a6b	ALEXANDER BRANDER	Fri Oct 29 00:08:37 2021	image
+500d893	ALEXANDER BRANDER	Fri Oct 29 00:08:27 2021	image
+743c0ce	ALEXANDER BRANDER	Fri Oct 29 00:08:17 2021	image
+38b6488	ALEXANDER BRANDER	Thu Oct 28 23:11:52 2021	After history content
+df96521	ALEXANDER BRANDER	Thu Oct 28 23:11:00 2021	Home content v4
+903e5d8	ALEXANDER BRANDER	Thu Oct 28 23:10:44 2021	History content v2
+4211071	ALEXANDER BRANDER	Thu Oct 28 22:37:00 2021	History content v1
+be98894	ALEXANDER BRANDER	Thu Oct 28 22:36:36 2021	Home content v3
+680ac1c	ALEXANDER BRANDER	Thu Oct 28 21:48:43 2021	Home content v2
+8239196	ALEXANDER BRANDER	Thu Oct 28 21:35:46 2021	Banner and Navbar v3
+c1a6355	ALEXANDER BRANDER	Thu Oct 28 21:33:10 2021	Banner and Navbar v3
+a4d0fad	ALEXANDER BRANDER	Thu Oct 28 21:30:00 2021	After home content
+0655d55	ALEXANDER BRANDER	Thu Oct 28 21:28:30 2021	Home Content V1
+0d05153	ALEXANDER BRANDER	Thu Oct 28 12:36:05 2021	Banner and Navbar v2
+bc60ede	ALEXANDER BRANDER	Thu Oct 28 12:08:54 2021	Banner and Navbar
+a2f10be	AlexanderBrander	Thu Oct 28 10:58:19 2021	Initial commit
