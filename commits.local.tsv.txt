@@ -1,3 +1,8 @@
+b00e979	ALEXANDER BRANDER	Fri Oct 29 01:04:11 2021	Final Style
+2ae6660	ALEXANDER BRANDER	Fri Oct 29 01:03:44 2021	Visit content v3
+08458dd	ALEXANDER BRANDER	Fri Oct 29 01:03:32 2021	History content v4
+22c1be0	ALEXANDER BRANDER	Fri Oct 29 01:03:14 2021	Home content v5
+73ccac7	ALEXANDER BRANDER	Fri Oct 29 00:40:21 2021	Commit log
 d4033d1	AlexanderBrander	Fri Oct 29 00:38:11 2021	Update README.md
 8a7dd8d	AlexanderBrander	Fri Oct 29 00:37:40 2021	Update README.md
 290b402	ALEXANDER BRANDER	Fri Oct 29 00:30:59 2021	Merge branch 'main' of https://github.com/AlexanderBrander/CA-2-CS1031 into main
