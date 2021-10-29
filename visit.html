@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
         <title>Findochty Tourist Information</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -11,8 +11,10 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <section class="main-container">
-            <article class="bannerIntro">
+        
+        <!--Banner-->
+        <div class="main-container">
+            <div class="bannerIntro">
                 <div class="container">
                     <div class="jumbotron">
                         <h1>Findochty 'Finechty'</h1>
@@ -20,8 +22,10 @@
                         <p>"Just and Honest"</p>  
                     </div>
                 </div>
-            </article>
-        </section>
+            </div>
+        </div>
+        
+        <!--Navbar-->
         <nav class="navbar navbar-dark bg-dark navbar-expand-md sticky-top">
             <div class="container-fluid">
                 <button class="navbar-toggler" data-target="#navbarR" type="button" data-toggle="collapse">
@@ -42,29 +46,33 @@
                 </div>
             </div>                
         </nav>
+        
+        <!--Content-->
         <div class="theGridA">
             <div class="theGridA1">
                 <div class="headingS">
                     <h1>Essential Experiences</h1>
                 </div>
                 <ul>
-                    <li class="paragraphS">The Admirals Inn</li>
-                    <p>Admirals is a cosy, friendly pub with great staff and
-                        superb homemade food. The bay windows in the conservatory 
-                        overlook the sea and harbour.</p>
-                    <li class="paragraphS">Edindoune Rock</li>
-                    <p>Perhaps go for a swim out to the rock of edindoune
-                        to view it in all its glory.</p>
-                    <li class="paragraphS">Bow Fiddle Rock</li>
-                    <p>Instead maybe go to the cliffs of Portknockie, a neighbouring village,
-                        to see the famous "Bow Fiddle" rock.</p>
-                    <li class="paragraphS">Strathlene Golf Course</li>
-                    <p>Go for a round of golf at the strathlene golf course, located
-                        just to the west of Finechty.</p>
-                    <li class="paragraphS">Cullen Beach</li>
-                    <p>Take a walk on the beautiful beach of Cullen, a neighbouring village,
-                        and take in the sight and smell of the sea.</p>
+                    <li class="paragraphS">The Admirals Inn</li>                   
+                    <li class="paragraphS">Edindoune Rock</li>                   
+                    <li class="paragraphS">Bow Fiddle Rock</li>                    
+                    <li class="paragraphS">Strathlene Golf Course</li>                    
+                    <li class="paragraphS">Cullen Beach</li>                    
                 </ul>
+                <div class="paragraphV">
+                    <p>Admirals is a cosy, friendly pub with great staff and
+                            superb homemade food. The bay windows in the conservatory 
+                            overlook the sea and harbour. <br><br><br>
+                    Perhaps go for a swim out to the rock of edindoune
+                            to view it in all its glory. <br><br><br>
+                    Instead maybe go to the cliffs of Portknockie, a neighbouring village,
+                            to see the famous "Bow Fiddle" rock. <br><br><br>
+                    Go for a round of golf at the strathlene golf course, located
+                            just to the west of Finechty. <br><br><br>
+                    Take a walk on the beautiful beach of Cullen, a neighbouring village,
+                            and take in the sight and smell of the sea.</p>
+                </div>
             </div>
             <div class="theGridV2">
                 <div class="headingS">
@@ -72,7 +80,7 @@
                 </div>
                 <div class="card">
                     <div class="card-header"><h3>Bow Fiddle Rock</h3></div>
-                    <div class="card-body"><img src="BowFiddle.jpg" alt="Bow fiddle rock image" height="150px" width="150px"><br>
+                    <div class="card-body"><img src="BowFiddle.jpg" alt="Bow fiddle rock image" style="width:150px; height:150px;"><br>
                         <a href="https://www.geograph.org.uk/photo/69268">
                         Credit: Cristopher Gillan</a></div> 
                     <div class="card-footer">Bow Fiddle rock is located just outside the
@@ -80,7 +88,7 @@
                 </div> <br><br>
                 <div class="card">
                     <div class="card-header"><h3>Cullen Beach</h3></div>
-                    <div class="card-body"><img src="CullenBeach.jpg" alt="Cullen Beach image" height="150px" width="150px"><br>
+                    <div class="card-body"><img src="CullenBeach.jpg" alt="Cullen Beach image" style="width:150px; height:150px;"><br>
                     <a href="https://www.thebeachguide.co.uk/north-scotland/grampian/cullen-photos.htm">
                         Credit: John Allen</a></div>
                     <div class="card-footer">Walk along the Cullen beach and take in the scenery.</div>
