@@ -44,6 +44,12 @@
     word-wrap: break-word;
     padding: 10px;
 }
+.paragraphV {
+    text-align: justify;
+    font-size: 17px;
+    word-wrap: break-word;
+    padding: 10px;
+}
 .map {
     padding: 0px;
 }
