@@ -36,6 +36,7 @@
 .headingS {
     text-align: center;
     padding: 40px;
+    word-wrap: break-word;
 }
 .paragraphS {
     text-align: justify;
@@ -57,5 +58,9 @@
     gap: 10px;
 }
 .theGridA > div {background-color: white; border: solid 5px #414949; padding: 0px;}
+
+.theGridV2 {
+    padding: 100px;
+}
 
 
